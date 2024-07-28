@@ -1,0 +1,50 @@
+[
+  {
+    "nombre":"Salud fìsica",
+  "descripcion":"Alimentación, Ejercicio, Biofísica, Reiki, Medicina?, Ayurveda?, Acupuntura, Homeopatía, Yoga, Magnetoterapia."
+  },
+  {
+    "nombre":"Dinero/Finanzas",
+  "descripcion":"Negocios y emprendimiento, Ahorro, Finanzas personales, Qué es un activo y un pasivo, Administración, Inversiones, Seguros, Qué es el dinero, Creencias sobre el dinero, Amar el dinero, Abundacia."
+  },
+  {
+    "nombre":"Pareja",
+    "descripcion":"?"
+  },
+  {
+    "nombre":"Familia",
+    "descripcion":"Familia Tóxica, Comunicación , Dependencia familiar, Responsabilidades, Roles, Creencias familiares."
+  },
+  {
+    "nombre":"Hijos",
+    "descripcion":"Crianza positiva, Hablando de sexo, Cómo atender los berrinches?, Autoestima para hijos, Comunicación con mis hijos, Cómo prevenir el abuso infantil, Problemas de aprendizaje, Transtornos infantiles, Problemas de lenguaje, Bullying, Cómo explicar un divorcio, Etapas del desgano?"
+  },
+  {
+    "nombre":"Profesion",
+    "descripcion":"Proyecto de vida, Crisis existencial, Liderazgo, Trabajo en equipo, Comunicación acertiva, Habilidades sociales, Uso de herramientas tecnológias."
+  },
+  {
+    "nombre":"Amigos",
+    "descripcion":"Amistades tóxicas, Comunicaciòn acertiva, Lealtad y empatía."
+  },
+  {
+    "nombre":"Diversion",
+    "descripcion":"?"
+  },
+  {
+    "nombre":"Espiritualidad",
+    "descripcion":"Conceptos de Dios, TAO?, Preceptos Budistas?, Física cuántica, Metafísica, Meditación, Constelaciones familiares, Yoga, Artes marciales"
+  },
+  {
+    "nombre":"Crecimiento Personal",
+    "descripcion":"Meditación, Mindfulness, Libros, Audiolibros, Cursos, Pláticas, Autoestima"
+  },
+  {
+    "nombre":"Sexualidad",
+    "descripcion":"Tántrica, Biofísica, Diversidad sexual, Masturbación."
+  },
+  {
+    "nombre":"Niños",
+    "descripcion":"Manejo de emociones, Autoestima, Autocuidado, Ejercicios de lenguaje, Cómo encontrar a mis padres?, Mis padres se divorcian?, Qué me gusta, Qué te gustaría ser de grande, Uso de la tecnología"
+  }
+]
